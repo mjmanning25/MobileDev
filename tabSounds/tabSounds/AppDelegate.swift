@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  tabSounds
 //
-//  Created by Onisha Juhl on 20/09/19.
+//  Created by Michael Manning on 20/09/19.
 //  Copyright © 2019 Michael Manning. All rights reserved.
 //
 
@@ -43,4 +43,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-

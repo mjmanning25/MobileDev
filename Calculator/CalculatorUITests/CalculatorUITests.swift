@@ -2,8 +2,8 @@
 //  CalculatorUITests.swift
 //  CalculatorUITests
 //
-//  Created by Onisha Juhl on 17/09/19.
-//  Copyright © 2019 Onisha Juhl. All rights reserved.
+//  Created by Michael Manning on 17/09/19.
+//  Copyright © 2019 Michael Manning. All rights reserved.
 //
 
 import XCTest

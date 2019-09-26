@@ -3,7 +3,7 @@
 //  Calculator
 //
 //  Created by  on 17/09/19.
-//  Copyright © 2019 Onisha Juhl. All rights reserved.
+//  Copyright © 2019 Michael Manning. All rights reserved.
 //
 
 import UIKit
